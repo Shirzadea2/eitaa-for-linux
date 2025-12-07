@@ -19,7 +19,7 @@ Clone this repository and build the package:
 
 ```bash
 git clone https://github.com/Shirzadea2/eitaa-for-linux.git
-cd eitaa-bin
+cd eitaa-for-linux
 makepkg -si
 ```
 
