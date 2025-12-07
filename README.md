@@ -13,7 +13,7 @@ It wraps the official binary release into a proper Arch package, including a `.d
 
 ---
 
-## 🔧 Build & Install
+## 🔧 Build & Install (Recommended)
 
 Clone this repository and build the package:
 
@@ -21,3 +21,14 @@ Clone this repository and build the package:
 git clone https://github.com/Shirzadea2/eitaa-for-linux.git
 cd eitaa-bin
 makepkg -si
+```
+
+---
+
+## 🔽 Use the release package
+
+Install the built package
+Download the .tar.zst file and install directly:
+```bash
+sudo pacman -U eitaa-bin-0-1-x86_64.pkg.tar.zst
+```
