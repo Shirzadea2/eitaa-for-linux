@@ -18,6 +18,6 @@ It wraps the official binary release into a proper Arch package, including a `.d
 Clone this repository and build the package:
 
 ```bash
-git clone https://github.com/yourusername/eitaa-bin.git
+git clone https://github.com/Shirzadea2/eitaa-for-linux.git
 cd eitaa-bin
 makepkg -si
